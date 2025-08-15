@@ -51,7 +51,7 @@
     {inicio: 45, fim: 50, faixa: "De 15 a 30 UFM"},
     {inicio: 51, fim: 59, faixa: "De 15 a 30 UFM"},
     {inicio: 60, fim: 61, faixa: "De 15 a 30 UFM"},
-    {inicio: 62, fim: 68, faixa: "De 69 a 120 UFM"},
+    {inicio: 62, fim: 68, faixa: "De 60 a 120 UFM"},
     {inicio: 69, fim: 69, faixa: "De 15 a 30 UFM"},
     {inicio: 70, fim: 74, faixa: "De 10 a 20 UFM"},
     {inicio: 75, fim: 85, faixa: "De 20 a 40 UFM"},
